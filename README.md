@@ -1,12 +1,9 @@
-# Stroomloos
+# Oostwaarts
 
-3D survival-craftinggame in de browser (Three.js). Zeeland, drie weken na de meltdown: sloop wat er over is, onderzoek elektriciteit en bouw je eigen microgrid op.
-
-## Spelen
-Open `index.html` in een browser, of bezoek de Vercel-site.
-
-## Besturing
-WASD lopen · Shift rennen · Spatie springen · Muis kijken · Klik slaan/plaatsen · E gebruiken · C menu · F eten · R drinken · G jodium · Q annuleren · M geluid
+3D VOC-zeilgame in de browser (Three.js). Vijftig jaar Compagnie, vier generaties Vos.
 
 ## Status
-Versie 0.1: verzamelen, craften, research-boom, microgrid (dynamo, zonnepaneel, accu, LED-lamp), dag/nacht met Gloeiers, straling, radio-einddoel.
+Speeltest: varen met wind en golven, zeeslagen met breedzijdes (ijzeren en kettingkogels), golven vijanden die steeds zwaarder worden, buit uit het water vissen en een werf tussen de golven.
+
+## Besturing
+W/S zeilen · A/D sturen · Q bakboord vuren · E stuurboord vuren · 1/2 munitie · muis slepen om te kijken · scroll zoom · M geluid
